@@ -1,0 +1,31 @@
+.pinkcolor{
+    background-color: pink;
+    font-family:"Verdana, Geneva,DejaVu Sans, sans-serif" ;
+}
+
+#greencolor{
+    background-color: greenyellow;
+    
+}
+
+.twentyfour{
+    font-size: 24px;
+
+}
+
+#bluetext{
+    font-size:36px;
+    color: blue;
+}
+
+*{
+    font-weight:bold;
+}
+
+.three{
+    font-size: 24px;
+}
+
+.four{
+    font-size: 24px;
+}
