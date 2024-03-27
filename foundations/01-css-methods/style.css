@@ -1,0 +1,19 @@
+div {
+    background-color: red;
+    color:azure;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+p{
+    background-color: green;
+    color:white;
+
+}
+
+button{
+    background-color: orange;
+    border-color: aliceblue;
+    font-weight: 600;
+}
