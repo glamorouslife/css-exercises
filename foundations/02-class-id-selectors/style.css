@@ -4,13 +4,11 @@
 }
 
 #greencolor{
-    background-color: greenyellow;
-    
+    background-color: greenyellow;  
 }
 
 .twentyfour{
     font-size: 24px;
-
 }
 
 #bluetext{
@@ -19,7 +17,7 @@
 }
 
 *{
-    font-weight:bold;
+font-weight:bold;
 }
 
 .three{
